@@ -18,3 +18,4 @@ nbs/*npy
 nbs/figures.ipynb
 nbs/dataset-distribution.ipynb
 nbs/dataset-distribution_old.ipynb
+ignore
