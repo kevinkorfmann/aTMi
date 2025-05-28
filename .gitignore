@@ -13,3 +13,8 @@ nbs/Athaliana_maf
 nbs/models
 __pycache__
 aTMi/aTMi/__pycache__
+dataset
+nbs/*npy
+nbs/figures.ipynb
+nbs/dataset-distribution.ipynb
+nbs/dataset-distribution_old.ipynb
