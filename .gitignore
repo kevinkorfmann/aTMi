@@ -1,2 +1,15 @@
 aTMi.egg-info
 .DS_Store
+aTMi/__pycache__
+nbs/__pycache__
+nbs/.ipynb_checkpoints
+nbs/figures
+nbs/figures_v0.1_updated.ipynb
+nbs/figures_v0.2.ipynb
+nbs/cache
+nbs/Bd
+nbs/Athaliana_2
+nbs/Athaliana_maf
+nbs/models
+__pycache__
+aTMi/aTMi/__pycache__
